@@ -1,4 +1,6 @@
 /OS_ISO/*
+!/OS_ISO/README.md
 /USB_Data/*
-System Volume Information
+!/USB_Data/.ventoyignore
+/System Volume Information
 VentoyPlugson.log
